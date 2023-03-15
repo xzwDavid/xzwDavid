@@ -1,39 +1,9 @@
 <h3 align="center">Hi 👋, I'm David</h3>
 
-
-const typewriter = new Typewriter(app, {
-  loop: true,
-  delay: 75,
-  stringSplitter
-});
-
-typewriter.pauseFor(2500) // 开始等待2.5s
-          .typeString("whoami?")
-          .pauseFor(300)
-          .typeString("23333🌷")
-          .deleteChars(10)
-          .typeString("<strong>JS</strong> plugin for a cool typewriter effect and ")
-          .typeString('<strong>only <span style="color: #27ae60;">5kb</span> Gzipped!</strong>')
-          .pauseFor(1000)
-          .start();
-
-
-
-
-
-<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
-<div id="particles-js">
-  <div id="start">I'll  be  back . . .</div>
-  <div id="typewriter"></div>
-  <div id="end"></div>
-</div>
-
-<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js">
-</script>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="www.atong.run">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到孙菜菜的主页!&center=true&size=27">
+    <img src="https://loading.io/asset/645871">
   </a>
 </h1>
 
