@@ -1,6 +1,13 @@
 <h3 align="center">Hi 👋, I'm David</h3>
 <div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<div id="particles-js">
+  <div id="start">I'll  be  back . . .</div>
+  <div id="typewriter"></div>
+  <div id="end"></div>
+</div>
 
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js">
+</script>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="www.atong.run">
