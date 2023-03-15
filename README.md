@@ -1,5 +1,21 @@
 <h3 align="center">Hi 👋, I'm David</h3>
+<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
 
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="www.atong.run">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到孙菜菜的主页!&center=true&size=27">
+  </a>
+</h1>
+
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+
+
+  <p align="center">
+    Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
+</p>
 
 ### 🏆 Profile Trophy
 
