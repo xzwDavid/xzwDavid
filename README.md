@@ -11,7 +11,7 @@
 
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222311275.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg" /></div>
 
 
   <p align="center">
