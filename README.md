@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm David</h3>
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
+<div align="center" ><img order-radius="100px" src="images/dffb9ec7bdd20aa6127f0c82916b4bbe1deabe68743148a4a1af79aa8dadc485.gif"/></div>
 <br>
 <!-- 动态打字效果 -->
 <h1 align="center">
