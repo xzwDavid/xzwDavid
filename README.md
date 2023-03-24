@@ -81,7 +81,17 @@
 <div align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/Python.svg" alt="html5" width="40" height="40" />
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/elasticsearch-Elasticsearch.svg" alt="html5" width="40" height="40" />
+     
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/SHELL.svg" alt="html5" width="40" height="40" />
+       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.svg" alt="html5" width="40" height="40" />
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/ggateway.svg" alt="html5" width="40" height="40" />
 </div>
 
 ### MY FAVORITE IDE
