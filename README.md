@@ -60,6 +60,22 @@
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
     </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/Kafka.png" alt="bash" width="40" height="40" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/mse%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%BC%95%E6%93%8E.png" alt="bash" width="40" height="40" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/bxl-spring-boot.png" alt="bash" width="40" height="40" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/Zookeeper.png" alt="bash" width="40" height="40" />
+    </a>
+  
+  
+  
+  
 </div>
 
 <div align="center">
