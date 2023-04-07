@@ -2,12 +2,7 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://github.com/atongrun/atongrun/blob/main/images/dffb9ec7bdd20aa6127f0c82916b4bbe1deabe68743148a4a1af79aa8dadc485.gif"/></div>
 
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="www.atong.run">
-    <img src="https://github.com/xzwDavid/xzwDavid/blob/main/Vanilla-1s-248px.gif">
-  </a>
-</h1>
+
 
 
 <!-- 贪吃蛇代码贡献图 -->
