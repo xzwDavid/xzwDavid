@@ -16,7 +16,7 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-    活着
+    Always be happy!😄
 </p>
 
 ### 🔨 Skills and Tools
