@@ -27,13 +27,8 @@
 
 ### 📜My publication:
 
-<div align="center">
-     <a href="https://arxiv.org/abs/2308.10965" target="_blank" rel="noreferrer">
-        Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks
-    </a>
-    <a href="https://arxiv.org/abs/2310.15065" target="_blank" rel="noreferrer">
-        Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service Co-Creation with LLM-Based Agents
-    </a>
+
+  
    <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     </a>
@@ -76,8 +71,16 @@
   
   
   
-  
+<div align="center">
+    <a href="https://arxiv.org/abs/2308.10965" target="_blank" rel="noreferrer">
+        Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks
+    </a>
+    <br>
+    <a href="https://arxiv.org/abs/2310.15065" target="_blank" rel="noreferrer">
+        Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service Co-Creation with LLM-Based Agents
+    </a>
 </div>
+
 
 <!--<div align="center">
 <!--     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
