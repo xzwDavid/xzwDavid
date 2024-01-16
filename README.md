@@ -13,11 +13,17 @@
     Visitor count<br><img src="https://profile-counter.glitch.me/atongrun/count.svg" />
 </p>
 
-### 🏆 Profile Trophy
+### 🧑‍🔬Research Interest Ranking:
 
 <p align="center">
-    Always be happy!😄
+    1. <strong>llm</strong><br>
+    2. <strong>Database</strong><br>
+    3. <strong>Data management</strong><br>
+    4. <strong>Distributed System</strong><br>
+    5. <strong>NLP</strong><br>
+    6. <strong>Network</strong>
 </p>
+
 
 ### 🔨 Skills and Tools
 
@@ -88,13 +94,3 @@
        <img src="https://github.com/xzwDavid/xzwDavid/blob/main/ggateway.svg" alt="html5" width="40" height="40" />
 </div>
 
-### MY FAVORITE IDE
- <div align="center">
-  </a>
-    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-    </a>
-</div>
