@@ -16,16 +16,14 @@
 ### 🧑‍🔬Research Interest Ranking:
 
 <p align="center">
-    1. <strong>llm</strong><br>
-    2. <strong>Database</strong><br>
-    3. <strong>Data management</strong><br>
-    4. <strong>Distributed System</strong><br>
-    5. <strong>NLP</strong><br>
-    6. <strong>Network</strong>
+    1. <strong>Sleep</strong><br>
+    2. <strong>delicious food😋</strong><br>
+    3. <strong>watching movie</strong><br>
+    4. <strong>physics</strong><br>
 </p>
 
 
-### 📜My publication:
+### 📜My Nonsense:
 
 
   
